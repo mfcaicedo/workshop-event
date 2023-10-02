@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@workshop-event/ges-user": ["apps/ges-user/src/index.ts"],
       "@workshop-event/ges-users": ["ges-users/src/index.ts"]
     }
   },
